@@ -18,13 +18,6 @@
   position: relative;
 }
 
-.s-container .swiper-button-prev {
-  left: 6rem;
-}
-.s-container .swiper-button-next {
-  right: 6rem;
-}
-
 .leftslide {
   display: flex;
   flex-direction: column;
